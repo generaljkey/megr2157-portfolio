@@ -30,6 +30,21 @@ The final task is choosing a product to analyze. The product I chose is a Spring
 
 ![1887 Patent image of a Spring Clothes-Pin](US356127-drawings-page-1.png)
 
+a) The Spring Clothes-Pin is a product used for hanging clothes onto a wire that then will utilize the sun's natural heat to dry the clothes hanging from the Clothes-Pin. The Clothes-Pin uses two arms connected by a spring that when applied force on the two ends of the arms, the arms will open, the clothes are then inserted between the two arms and when the arms are released, they will clamp the clothes and leave them hanging from the wire by the force of the Clothes-Pin. 
+
+b) i) The governing model of the Clothes-Pin utilizes static moment equilibrium. 
+
+When the two arms are pressed on one end of each arms, they are forced to open and make a V shape which is held until the force of whatever is pressing the two ends to touch to open, are released. This causes the two arms to touch on the other end which is where the arms will then clamp clothes and hold the clothes until force is pressed on the opposite ends. 
+
+ii) An assumption that makes this product valid would be treating the wooden arms as rigid bodies. The deformation and bending values are negligible because the spring holding the two arms together is the main force being used and this force is to keep the two arms touching from only one end of the arms together and touching which causes the clamping in this product. 
+
+c) From the previous image used to display the product, "1887 Patent image of a Spring Clothes-Pin," the two arms are labeled as parts B. These arms are made to have a slight angle when pressing the end "D" together that creates the clamping needed. The reason for this angle of the two arms meeting is to ensure that the opposing end, "E," can be pressed to open the clamping end, "D," that will hold clothes. 
+
+Using this same image, there is a spring labeled as "A." This spring is used to hold pressure on the two arms to ensure when there is no pressure applied to the two ends at "E," the opposing end at "D," will stay clamped with enough pressure to hold clothes. When pressure is applied to point "E," the spring allows for the two arms to open at the opposing end "D," to allow for clothes to be placed in the area of clamping. 
+
+d) From google patent, the patent number is US356127A and the author is Royal E, Hoyt with witnesses John D. Wilson and Alexander Provls. 
+
+   i)
 
 
 
