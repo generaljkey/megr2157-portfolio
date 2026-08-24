@@ -28,7 +28,7 @@ d) Riley uses professional descriptions and tones throughout his assignment by u
 
 The final task is choosing a product to analyze. The product I chose is a Spring Clothes-Pin. US Patent number US356127A.
 
-![1887 Patent image of a Spring Clothes-Pin](docs/assignments/A01/US356127-drawings-page-1.png)
+![1887 Patent image of a Spring Clothes-Pin](US356127-drawings-page-1.png)
 
 
 
