@@ -26,6 +26,12 @@ c) Riley explains reasoning for the parts from the patent as well as a direct al
 
 d) Riley uses professional descriptions and tones throughout his assignment by utilizing patent numbers and specific part names to differentiate which product he is explaining. With this detailed tone and phrasing, an employer would easily be able to understand and navigate through the assignment if wanting to learn more about the product he chose. 
 
+The final task is choosing a product to analyze. The product I chose is a Spring Clothes-Pin. US Patent number US356127A.
+
+
+
+
+
 ## Decide
 
 
