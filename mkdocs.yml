@@ -3,6 +3,8 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 
 theme:
   name: material
+  font:
+  text: Lato
   palette:
     primary: green
     accent: yellow
