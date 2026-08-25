@@ -53,7 +53,11 @@ d) From google patent, the patent number is US356127A and the author is Royal E,
 
 1) This intent of this portfolio is to display the progress through class MEGR 2157. As I upload new assignments, I will learn new techniques, software, and problem-solving skills leading to a brighter future into engineering throughout college and after. The lists of the assignments will guide readers to a detailed description of parts made, techniques used, and new ideas learned throughout the semester.
 
-2) 
+2) Two elements I changed in my website was the accent color and font. I chose the accent color to be yellow to compliment the UNCC colors of green and gold. This change was purely cosmetical to emphasize me being a student here at UNCC. I then changed the font to "Lato" to show a professional tone in my text for readers to see. This font change will help convey a professional look to my portfolio.
+
+3) For this portfolio, I want to give 110% effort towards my assignments and conveying my work and growth through the semester as I learn new and useful knowledge and be able to use this portfolio as part of my resume for future job applications meaning, the quality must be of the highest standards for myself. 
 
 ## Communicate
+
+I spent about 6 hours for this assignment. 
 
