@@ -1,2 +1,7 @@
 #About Me
-This is how to edit
+
+  My name is Jason Key and I am majoring in mechanical engineering. At a young age, I always wondered how different object or machines worked. I would always ask my dad or mom, "How can I see images on the TV?" or "How does the refrigerator keep food cold?" This mindset has continued to stay with me as I grow older as I learn more about how different everyday objects or machines are built, how they work, and what they are meant to be used for. I want to use my engineering skills to further improve my daily life and the lives of others. 
+
+    In engineering, a strong and methodical work ethic is essential to thrive in the industry. Being able to put all your effort into an assignment, project, or work area is important in growing yourself and the others around. This will then reflect on your work output by becoming a successful engineer. I strive to become a great engineer like my dad. He has been a great role model and mentor as I continue my path as a mechanical engineer as he has down before. Seeing the work he completes, motivates me to become a great engineer just like him. 
+
+    What does it mean to defend an engineering decision and do you currently know how to do it? To defend an engineering decision, in my opinion, is to use details, precise calculations, and moral guidelines to come to informed decisions based on needed projects or problems needing to be solved. Currently, I deal with engineering decisions but looking at all the information given to me, the current problem needing to be addressed, and give my full attention to said problem. 
