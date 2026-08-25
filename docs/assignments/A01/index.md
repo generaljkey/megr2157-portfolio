@@ -49,9 +49,11 @@ d) From google patent, the patent number is US356127A and the author is Royal E,
    ii) Back in the 1890s, people were using a different type of Clothes-Pin to hang their clothes. These Clothes-Pin's did not have a spring but were a wooden cylinder that was cut at the end towards the middle of the clip in half. The cut would start large then gradually become smaller creating a pinching like effect with the clothes when shoved into the pin. The engineer, Royal E. Hoyt, invented a product that included a spring to create pressure on two arms instead of a natural pinch. I think the spring was chosen to ensure a tight fit of the clamp that can be easily taken on and off the clothesline and clothes themselves while also not damaging the clothes. I think this spring design is revolutionary as spring clamps are still being used in modern times for all sorts of applications outside of clothes hanging. 
 
 
-
 ## Decide
 
+1) This intent of this portfolio is to display the progress through class MEGR 2157. As I upload new assignments, I will learn new techniques, software, and problem-solving skills leading to a brighter future into engineering throughout college and after. The lists of the assignments will guide readers to a detailed description of parts made, techniques used, and new ideas learned throughout the semester.
+
+2) 
 
 ## Communicate
 
