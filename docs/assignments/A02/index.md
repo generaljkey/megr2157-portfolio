@@ -22,4 +22,4 @@ The first step in this assignment was to start with the hand calculations for al
 
 After finding all of the forces for each joint, I then used the largest internal force to calculate the minimum area needed through my hand calculations that will handle the found materials yield strength of 317 MPa, a safety factor of 3.5, and density of 7850 kg/m^3. 
 
-![Part 2b i, ii, iii, and iv](IMG_2717.JPG)
+![Part 2b i, ii, iii, and iv](IMG_2718.JPG)
