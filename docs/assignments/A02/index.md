@@ -23,3 +23,7 @@ The first step in this assignment was to start with the hand calculations for al
 After finding all of the forces for each joint, I then used the largest internal force to calculate the minimum area needed through my hand calculations that will handle the found materials yield strength of 317 MPa, a safety factor of 3.5, and density of 7850 kg/m^3. 
 
 ![Part 2b i, ii, iii, and iv](IMG_2718.JPG)
+
+Lastly, I used equations I learned from Solid Mechanics class to find the cross-sectional area of the 5 pins needed for my 7-member truss design using shear stress equations. The given values for the hardened tool steel for these pins were a yield shear strength of 170 ksi and a density of 0.278 ln/in^3 with a safety factor of 4. 
+
+![Part 3a i, ii, iii, iv, and v](IMG_2719.JPG)
