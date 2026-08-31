@@ -16,4 +16,6 @@ I decided to choose a 7-member truss design because of the simplicity of the des
 
 The first step in this assignment was to start with the hand calculations for all the joints using Static's. I started with finding the forces for the support points A and B. Using static equilibrium in both the y and x axis's as well as using the static moment equilibrium, I was able to then find these values were necessary in further calculations for each joint at C, D, and E. Below are the calculations for each joint with free body diagrams, symbolic and numerical equations and their values. 
 
-![Part 2a i](IMG_2715.JPG)
+![Part 2a i, ii, iii, and iv](IMG_2715.JPG)
+![Part 2a i, ii, iii, and iv](IMG_2716.JPG)
+![Part 2a i, ii, iii, and iv](IMG_2717.JPG)
