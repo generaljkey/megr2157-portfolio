@@ -24,6 +24,8 @@ After finding all of the forces for each joint, I then used the largest internal
 
 ![Part 2b i, ii, iii, and iv](IMG_2718.JPG)
 
-Lastly, I used equations I learned from Solid Mechanics class to find the cross-sectional area of the 5 pins needed for my 7-member truss design using shear stress equations. The given values for the hardened tool steel for these pins were a yield shear strength of 170 ksi and a density of 0.278 ln/in^3 with a safety factor of 4. 
+Lastly, I used equations I learned from Solid Mechanics class to find the cross-sectional area of the 5 pins needed for my 7-member truss design using shear stress equations. The given values for the hardened tool steel for these pins were a yield shear strength of 170 ksi and a density of 0.278 ln/in^3 with a safety factor of 4. I had forgotten the process of finding pin diameters and pin area so, I utilized YouTube as well as my Solid Mechanics notebook to find help videos and examples on the process to solve. 
 
 ![Part 3a i, ii, iii, iv, and v](IMG_2719.JPG)
+
+## SolidWorks Modeling 
