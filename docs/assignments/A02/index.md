@@ -3,6 +3,8 @@
 ## Objective
  For this assignment, I was tasked with designing and 3d modeling on a software for a planar truss with A500 structural steel as the material. 
 
+ ![Figure #1 from assignment description](Figure #1.png)
+
 
 ## Description
 
