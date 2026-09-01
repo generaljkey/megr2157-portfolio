@@ -29,3 +29,9 @@ Lastly, I used equations I learned from Solid Mechanics class to find the cross-
 ![Part 3a i, ii, iii, iv, and v](IMG_2719.JPG)
 
 ## SolidWorks Modeling 
+
+For software, I chose to use SolidWorks. A friend of mine recommended SolidWorks as he mentioned it was comprehension able for beginners and the software listed for this assignment were not familiar to me. 
+
+First, I built the truss design, extruded the truss to my calculated dimensions of 15mm by 15mm, then cut holes for the pins at each joint. 
+
+
