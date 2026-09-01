@@ -34,4 +34,6 @@ For software, I chose to use SolidWorks. A friend of mine recommended SolidWorks
 
 First, I built the truss design, extruded the truss to my calculated dimensions of 15mm by 15mm, then cut holes for the pins at each joint. 
 
+![Building The Truss Design](BuildingTruss.pdf)
+
 
