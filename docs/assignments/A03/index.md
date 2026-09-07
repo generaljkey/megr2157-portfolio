@@ -8,7 +8,7 @@ For assignment A03, the objective of this assignment was to calculate and design
 
 For the parametric design, a range of values for Applied Load and Young's Modulus were given to choose from to then calculate further information needed for the beam design. For the Applied Load, I chose 400 lbf and for Young's Modulus, I chose a value of 9,000,000 psi. I chose these values because they both were in the middle of the given ranges for this assignment. 
 
-
+![Hand Calculations for Beam Design](IMG_2740.JPG)
 
 
 ## Decide
