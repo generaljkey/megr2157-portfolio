@@ -40,6 +40,12 @@ After conducting the FEA test and obtaining the displacement test, a displacemen
 
 ![Von Mises Test Result](A03%20Von%20Mises%20Result.png)
 
-From the Von Mises stress result, the maximum stress was at 
-## Communicate
+From the Von Mises stress result, the maximum stress was 965.2 psi. With a given Yield Strength of 40,000 psi, the safety factor with my beam design resulted in 41.44. This safety factor is very high meaning that with the given material and beam design parameters, the stress within the beam will be much smaller than the maximum stress for the material. The beam design is considered very safe for the parameters and given deflection value. 
+
+## Percent Difference
+
+For the beam design and given beam deflection, I had a percentage difference of 0.11%. I believe that the values of area and length in the equations list caused this percentage error. In my hand calculations, the maximum stress for the beam was 905.4 psi. I think SolidWorks program 
+## Lessons Learned 
+
+During this assignment, 
 
