@@ -17,6 +17,20 @@ With my hand calculations, I chose a beam design diameter of 0.75 inches. My are
 ![SolidWorks Equation List](A03%20Equations.png)
 ![Beam Design Dimensions](A03%20Length%20and%20Diameter.png)
 
+With SolidWorks rounding my values for length and area to only 2 decimal places, my length stayed at 89.46 inches. This rounding might have affected my values with the FEA test later on. 
+
+ ## FEA Test
+
+![Material Edit](A03%20Material%20Edit.png)
+
+For the material of Aluminum, I had to make a custom material with the following parameters.
+
+- Elastic Modulus = 9,000,000 psi
+- Poisson's Ratio = 0.33
+- Mass Density = 0.0975 lb/in^3
+- Yield Strength = 40,000 psi
+
+![Setting Fixtures and Mesh](A03%20Setting%20Fixtures%20and%20Mesh.png)
 
 ## Communicate
 
