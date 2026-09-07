@@ -44,15 +44,15 @@ Next, inputted the pins with their calculated dimensions of 11.11 mm in the prec
 
 After inputting the pins, I had to edit the material in the software as SolidWorks does not have an "A500" material values. I used values I found online for A500 Structural Steel with a yield strength of 317 MPa and density of 7850 kg/m^3. This step was new to me. I have never used a testing program for load design and calculations before, so I had to learn as I went but in the end, I became familiar with the steps. 
 
-![Material A500 Value Inputting](MaterialEdit.pdf)
+![Material A500 Value Inputting](Material%20Edit.png)
 
 After editing a custom material, I used the same process to create a new Pin Material with the given parameters of density being 0.278 lb/in^3. 
 
-![Inputting Pin Material Values](PinMaterialEdit.pdf)
+![Inputting Pin Material Values](Pin%20Material%20Edit.png)
 
 For the next step, I needed to assign supports with designated support types and restrict movement on certain axis's. For Pin A, there is movement in the Y and the X axis. I used the "Support" tab to assign a hinge support for Pin A. Then I used this same process to assign a Roller Support for Pin B which restricts movement in the Y-axis. I had to manually do this as the axis's were not working by choosing specific reference points and selecting which direction was restricted. This process was challenging as the refernce points were very specific and choosing a wrong axis would alter the values heavily. 
 
-![Assigning Supports](AssigningSupports.pdf)
+![Assigning Supports](Assigning%20Supports.png)
 
 Finally, I entered external forces for the locations of P at the joints C and D. At joint C, the load was towards the positive Y-axis while the load at Joint D was towards the negative Y-axis. I had the same issue as assigning supports with the referencing points. Finding the right reference point that would apply the correct load in the correct direction was difficult. I had to choose and change different reference points often for this step and caused many issues. 
 
