@@ -40,7 +40,7 @@ First, I built the truss design, extruded the truss to my calculated dimensions 
 
 Next, inputted the pins with their calculated dimensions of 11.11 mm in the precut holes from the first step and extruded the pins so they are extended out of the truss body by 2.5 mm each side. This step again was familiar to me as extruding skills were translated to this software. 
 
-![Pins](Pins.pdf)
+![Pins](Pins.png)
 
 After inputting the pins, I had to edit the material in the software as SolidWorks does not have an "A500" material values. I used values I found online for A500 Structural Steel with a yield strength of 317 MPa and density of 7850 kg/m^3. This step was new to me. I have never used a testing program for load design and calculations before, so I had to learn as I went but in the end, I became familiar with the steps. 
 
