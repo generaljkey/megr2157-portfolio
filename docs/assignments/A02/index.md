@@ -3,7 +3,7 @@
 ## Objective
  For this assignment, I was tasked with designing and 3d modeling on a software for a planar truss with A500 structural steel as the material. 
 
- ![Figure #1 from assignment description](Figure#1.png)
+ ![Figure #1 from assignment description](Figure%20#1.png)
 
 The dimensions and load for the given diagram were P=25kN, a=0.4 m, b=0.3 m, Point A is a pin, and Point B is a roller. 
 
@@ -36,7 +36,7 @@ For software, I chose to use SolidWorks. A friend of mine recommended SolidWorks
 
 First, I built the truss design, extruded the truss to my calculated dimensions of 15mm by 15mm, then cut holes for the pins at each joint. This step was relatively simple as most software's have very similar building process so my software skills for REVIT were able to translate over to SolidWorks efficiently.   
 
-![Building The Truss Design](BuildingTruss.pdf)
+![Building The Truss Design](Building%20Truss.pdf)
 
 Next, inputted the pins with their calculated dimensions of 11.11 mm in the precut holes from the first step and extruded the pins so they are extended out of the truss body by 2.5 mm each side. This step again was familiar to me as extruding skills were translated to this software. 
 
