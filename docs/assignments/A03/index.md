@@ -32,5 +32,14 @@ For the material of Aluminum, I had to make a custom material with the following
 
 ![Setting Fixtures and Mesh](A03%20Setting%20Fixtures%20and%20Mesh.png)
 
+Next, I set a fixed geometry at one end of the beam with the other end having an applied load of 400 lbf in the opposite horizontal direction. 
+
+![Displacement Test Result](A03%20Displacement%20Result.png)
+
+After conducting the FEA test and obtaining the displacement test, a displacement test value of 0.00901 inches resulted. I believe from SolidWorks rounding of the values for the area and length have caused this deflection to be slightly over by 0.00001 inches of axial deflection. If the program did not round these values, the deflection value would have been equal to 0.009 inches. 
+
+![Von Mises Test Result](A03%20Von%20Mises%20Result.png)
+
+From the Von Mises stress result, the maximum stress was at 
 ## Communicate
 
