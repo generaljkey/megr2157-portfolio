@@ -52,11 +52,11 @@ After editing a custom material, I used the same process to create a new Pin Mat
 
 For the next step, I needed to assign supports with designated support types and restrict movement on certain axis's. For Pin A, there is movement in the Y and the X axis. I used the "Support" tab to assign a hinge support for Pin A. Then I used this same process to assign a Roller Support for Pin B which restricts movement in the Y-axis. I had to manually do this as the axis's were not working by choosing specific reference points and selecting which direction was restricted. This process was challenging as the refernce points were very specific and choosing a wrong axis would alter the values heavily. 
 
-![Assigning Supports](Assigning%20Supports.png)
+![Assigning Supports](Asigning%20Supports.png)
 
 Finally, I entered external forces for the locations of P at the joints C and D. At joint C, the load was towards the positive Y-axis while the load at Joint D was towards the negative Y-axis. I had the same issue as assigning supports with the referencing points. Finding the right reference point that would apply the correct load in the correct direction was difficult. I had to choose and change different reference points often for this step and caused many issues. 
 
-![Applying External Loads](ExternalLoads.pdf)
+![Applying External Loads](External%20Loads.png)
 
 Unfortunately, I was not able to get the testing mechanism in the software to correctly work. After attempting close to 5 test runs, my design would constantly bend like a pretzel leading to stress strength in the upwards of thousands of MPa. I think the issue was my calculations for cross sectional area or how I inputted values into my design in the testing phase. I tried to change locations of force applied and could not get the correct values. The calculated pins held up very well with minimal shear stress, but the beams were the main problem with the testing design. 
 
