@@ -15,6 +15,7 @@ With my hand calculations, I chose a beam design diameter of 0.75 inches. My are
 ## SolidWorks
 
 ![SolidWorks Equation List](A03%20Equations.png)
+![Beam Design Dimensions](A03%20Length%20and%20Diameter.png)
 
 
 ## Communicate
