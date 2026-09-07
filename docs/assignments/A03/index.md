@@ -10,9 +10,11 @@ For the parametric design, a range of values for Applied Load and Young's Modulu
 
 ![Hand Calculations for Beam Design](IMG_2740.JPG)
 
-With my hand calculations, I chose a beam design diameter of 0.75 inches. My area came out to be 0.4418 inches squared. Then, using the Bar Tension Elongation equation, the length of my beam design came out to be 89.46 inches. In reality, this beam design will 
+With my hand calculations, I chose a beam design diameter of 0.75 inches. My area came out to be 0.4418 inches squared. Then, using the Bar Tension Elongation equation, the length of my beam design came out to be 89.46 inches. 
 
-## Decide
+## SolidWorks
+
+![SolidWorks Equation List](A03Equations.png)
 
 
 ## Communicate
