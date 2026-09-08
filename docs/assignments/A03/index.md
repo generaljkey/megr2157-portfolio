@@ -50,3 +50,5 @@ For the beam design and given beam deflection, I had a percentage difference of 
 
 During this assignment, I further improved my skills with SolidWorks as my FEA tests were successful and showed my calculations were correct. I also learned further about how SolidWorks rounds and will research on how to fix this issue for more precise values to obtain more accurate results. This assignment went well as I was well aware of the SolidWorks program to conduct the assignment. In total, this assignment took about 4 hours to complete. 
 
+[Download SolidWorks Project](A03.zip)
+
