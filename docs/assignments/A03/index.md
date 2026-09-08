@@ -45,7 +45,8 @@ From the Von Mises stress result, the maximum stress was 965.2 psi. With a given
 ## Percent Difference
 
 For the beam design and given beam deflection, I had a percentage difference of 0.11%. I believe that the values of area and length in the equations list caused this percentage error. In my hand calculations, the maximum stress for the beam was 905.4 psi. I think SolidWorks program 
+
 ## Lessons Learned 
 
-During this assignment, 
+During this assignment, I further improved my skills with SolidWorks as my FEA tests were successful and showed my calculations were correct. I also learned further about how SolidWorks rounds and will research on how to fix this issue for more precise values to obtain more accurate results. This assignment went well as I was well aware of the SolidWorks program to conduct the assignment. In total, this assignment took about 4 hours to complete. 
 
