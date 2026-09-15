@@ -10,7 +10,11 @@ The applied load has a value of 300 N, with a Safety Factor of 3. The motor shaf
 
 ![PLA Material Edit](A04%20Material%20Edit.png)
 
-## 
+## Feature 1
+
+For Feature 1, I must use a free body diagram to get the reactions and moment based on the dimensions given as well as some guessed dimensions. I used a width of 50 mm and length of 40 mm. I felt that these two similar values will help bring the deflection to a lower value while still giving solid geometry for a high resilience to bending. 
+
+![Feature 1 Free Body Diagram](IMG_2766.JPG)
 
 
 ## Communicate
