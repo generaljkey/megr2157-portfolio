@@ -10,7 +10,7 @@ The applied load has a value of 300 N, with a Safety Factor of 3. The motor shaf
 
 I then researched options of L-Shaped mounts to determine a range of dimensions for my basic geometry. 
 
-![Misumi Two Double Hole Mount](https://us.misumi-ec.com/vona2/detail/110302706930/?list=PageCategory&seriesCode=110302706930&tab=drawingAndSpecifications&Page=1)
+[Misumi Two Double Hole Mount](https://us.misumi-ec.com/vona2/detail/110302706930/?list=PageCategory&seriesCode=110302706930&tab=drawingAndSpecifications&Page=1)
 
 
 ![PLA Material Edit](A04%20Material%20Edit.png)
@@ -49,7 +49,7 @@ Finally, I used all the calculations done by hand, to then translate these value
 
 Finally, I used these variables and dimensions entered, to design the motor mount into SolidWorks. I then entered the diameters of all the screw holes as well as the motor's shaft into the corresponding faces of the mount. 
 
-![Parametric Design](A04%20Parametric%20Design)
+![Parametric Design](A04%20Parametric%20Design.png)
 
 
 
