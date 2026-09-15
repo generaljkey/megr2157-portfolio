@@ -64,6 +64,8 @@ In total, this assignment took me about 7 hours to complete.
 
 ## CAD File Download
 
+Attached is the compressed Zip file for my SolidWorks file for assignment 4. 
 
+[SolidWorks File](A04.zip)
 
 
