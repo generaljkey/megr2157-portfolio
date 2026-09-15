@@ -54,6 +54,15 @@ Finally, I used these variables and dimensions entered, to design the motor moun
 
 ![Parametric Design](A04%20Parametric%20Design.png)
 
+## Lessons Learned
+
+From this assignment, I learned more about the vital parts of a design when figuring out dimensions of a design. When changing or altering values by any slight change, resulting changes can drastically change your design. At first, I had chosen very small dimensions which caused my design to not meet the required deflection and yield strength for the PLA material I had originally chosen. 
+
+Once I had refined the dimensions to meet the given values, the hand calculations went smoothly and was able to obtain dimensions that made sense and gave a strong safety factor. At first, I made the mistake of adding my thickness for the dimensions of my features when drawing the isometric sketch as well as 3D modeling the motor mount in SolidWorks. In the future, I will need to make sure I double check my dimensions in different views and making sure the dimensions are measured in the corrects ways needed to 3D model. 
+
+In total, this assignment took me about 7 hours to complete. 
+
+## CAD File Download
 
 
 
