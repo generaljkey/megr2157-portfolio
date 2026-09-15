@@ -10,9 +10,9 @@ The applied load has a value of 300 N, with a Safety Factor of 3. The motor shaf
 
 I then researched options of L-Shaped mounts to determine a range of dimensions for my basic geometry. 
 
-[Misumi Two Double Hole Mount](https://us.misumi-ec.com/vona2/detail/110302706930/?list=PageCategory&seriesCode=110302706930&tab=drawingAndSpecifications&Page=1)
-[Commercial Bracket](https://www.bing.com/shop/productdetails?goid=340547544773&entryPoint=genresultspage&q=commercial+L-bracket+for+motors&FORM=GRPPDP)
-[Tronic L-Bracket Motor Mount](https://tronic.lk/product/l-bracket-steel-motor-mount-25mm-with-hex-coupler)
+-[Misumi Two Double Hole Mount](https://us.misumi-ec.com/vona2/detail/110302706930/?list=PageCategory&seriesCode=110302706930&tab=drawingAndSpecifications&Page=1)
+-[Commercial Bracket](https://www.bing.com/shop/productdetails?goid=340547544773&entryPoint=genresultspage&q=commercial+L-bracket+for+motors&FORM=GRPPDP)
+-[Tronic L-Bracket Motor Mount](https://tronic.lk/product/l-bracket-steel-motor-mount-25mm-with-hex-coupler)
 
 
 
