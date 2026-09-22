@@ -29,6 +29,23 @@ With these given values explained in the objective, I then had to find the Free 
 
 ![A05FeatureEStressAnalysisNumerical.JPG](A05FeatureEStressAnalysisNumerical.JPG)
 
+Following the Stress Analysis tests, I had calculated the dimensions for each Feature. Feature A has a diameter of 0.875 inches and a length of 2 inches. Feature B has a length of 1.5 inches, width of 0.875 inches, and a height of 0.125 inches. Feature C has a length of 2 inches, width of 0.875 inches, and a height of 0.5 inches. Feature D has a length of 0.5 inches, width of 0.875 inches, and a height of 0.125 inches. Finally, Feature E has a length of 0.5 inches, width of 0.875 inches, and a height of 0.375 inches. 
+
+Next, I performed a stiffness test on each Feature again to confirm these values I have chosen, will also pass the max deflection of 0.005 inches.
+
+![A05FeatureAStiffnessAnalysis.JPG](A05FeatureAStiffnessAnalysis.JPG)
+
+![A05FeatureBStiffnessAnalysis.JPG](A05FeatureBStiffnessAnalysis.JPG)
+
+![A05FeatureCStiffnessAnalysis.JPG](A05FeatureCStiffnessAnalysis.JPG)
+
+![A05FeatureDStiffnessAnalysis.JPG](A05FeatureDStiffnessAnalysis.JPG)
+
+![A05FeatureEStiffnessAnalysis.JPG](A05FeatureEStiffnessAnalysis.JPG)
+
+After performing a Stiffness Test on each of the 5 features, I have confirmed that my previous dimensions are all safe and will comfortably meet the allowed deflection of 0.005 inches. Finally, I drew a Multiview Sketch of my bracket design. 
+
+![MultiviewSketches](A05MultiViewSketches.JPG)
 ## Decide
 
 
