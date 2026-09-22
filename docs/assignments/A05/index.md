@@ -13,6 +13,22 @@ With these given values explained in the objective, I then had to find the Free 
 
 ![A05FeatureAStressAnalysisAlgebraic.JPG](A05FeatureAStressAnalysisAlgebraic.JPG)
 
+![A05FeatureAStressAnalysisNumerical.JPG](A05FeatureAStressAnalysisNumerical.JPG)
+
+![A05FeatureBStressAnalysis.JPG](A05FeatureBStressAnalysis.JPG)
+
+![A05FeatureCStressAnalysis.JPG](A05FeatureCStressAnalysis.JPG)
+
+![A05FeatureCStressAnalysisNumerical.JPG](A05FeatureCStressAnalysisNumerical.JPG)
+
+![A05FeatureDStressAnalysis.JPG](A05FeatureDStressAnalysis.JPG)
+
+![A05FeatureDStressAnalysisNumerical.JPG](A05FeatureDStressAnalysisNumerical.JPG)
+
+![A05FeatureEStressAnalysis.JPG](A05FeatureEStressAnalysis.JPG)
+
+![A05FeatureEStressAnalysisNumerical.JPG](A05FeatureEStressAnalysisNumerical.JPG)
+
 ## Decide
 
 
