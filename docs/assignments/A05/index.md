@@ -11,6 +11,8 @@ With these given values explained in the objective, I then had to find the Free 
 
 ![A05FeatureAStressAnalysis.JPG](A05FeatureAStressAnalysis.JPG)
 
+![A05FeatureAStressAnalysisAlgebraic.JPG](A05FeatureAStressAnalysisAlgebraic.JPG)
+
 ## Decide
 
 
