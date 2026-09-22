@@ -43,11 +43,29 @@ Next, I performed a stiffness test on each Feature again to confirm these values
 
 ![A05FeatureEStiffnessAnalysis.JPG](A05FeatureEStiffnessAnalysis.JPG)
 
-After performing a Stiffness Test on each of the 5 features, I have confirmed that my previous dimensions are all safe and will comfortably meet the allowed deflection of 0.005 inches. Finally, I drew a Multiview Sketch of my bracket design. 
+After performing a Stiffness Test on each of the 5 features, I have confirmed that my previous dimensions are all safe and will comfortably meet the allowed deflection of 0.005 inches.
+
+## Multiview Sketches
+
+Finally, I drew a Multiview Sketch of my bracket design. 
 
 ![MultiviewSketches](A05MultiViewSketches.JPG)
-## Decide
 
+## Governing Failure Mode
 
-## Communicate
+For feature A, the minimum diameter required by the stress analysis was 0.848 inches while the stiffness analysis only required 0.703 inches. I chose a diameter value of 0.875 inches to comfortably meet both the Stress and Stiffness requirements. 
+
+## Error Propagation
+
+The 600 lbf reaction force calculated for Feature A was carried over to Features B and C. Then, the reaction forces at Feature C were used to determine the loads on Features D and E. 
+
+An error in these initial calculations would have altered my dimensions as well as not allowing these dimensions to meet the requirements of stress allowed and deflection allowed. To prevent this, I triple checked my work to make sure all calculations were correct and then further proceeded to the next feature and then repeated triple checking answers as I went. 
+
+## Assumption Sensitivity
+
+One assumption I made was to create the 600 lbf load as a uniformly distributed load along Feature A. I interpreted this bracket to be slide into place through a hole in some kind of part to hold or clamp the two objects together. I do not believe this bracket will act almost as a coat hanger but rather the uniformed distributed load like I chose to calculate with. 
+
+## Time Spent
+
+Overall, I spent close to 7 hours on this assignment. Having to do this large amount of statics and solids work made me have to brush up on my calculation skills by watching YouTube tutorials and looking back into my old notebooks of both classes. 
 
