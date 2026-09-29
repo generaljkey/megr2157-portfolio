@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – [Bracket Drawing]
 
 ## Objective
 The objective for this assignment is to use the previous assignments dimensions calculated for a T-Fitting Bracket, to create a 3D modeling object then create a drawing. Last week's assignment, I was tasked with finding the dimensions for a T-Fitting Bracket design based on dimensions given of the T-Fitting and a specific load applied on the bracket. Using these dimensions, a 3D model will be created. Then, a drawing will be created using a third angle projection on an ANSI B drawing sheet. 
