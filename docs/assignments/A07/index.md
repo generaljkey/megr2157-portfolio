@@ -81,5 +81,5 @@ Lastly, I used the maximum fine mesh setting slider to get further values.
    In total, I spent about 3 hours on this assignment. 
 
    Linked is the file to my SolidWorks file for bracket analysis. 
-   
+   [Download my SolidWorks Bracket File](A06%20Bracket%20(2).zip)
 
