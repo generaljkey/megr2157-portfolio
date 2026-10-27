@@ -9,7 +9,7 @@ For assignment 7, the objective was to use the SolidWorks Simulation program to 
    A. Static Stress Analysis
    First, a static stress study was initialized in SolidWorks Simulation to find test values of my original bracket design. I then made sure the material was edited for Aluminum 6061.
 
-
+![A07 Material Edit](A07%20Material%20Edit.png)
 
    B. Fixtures and Constraints
 
