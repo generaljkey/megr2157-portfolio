@@ -30,7 +30,7 @@ For assignment 7, the objective was to use the SolidWorks Simulation program to 
 
 For the second mesh, I used a slightly finer setting to try to alter the values for Von Mises and Displacement to see if they converge at the needed 7%.
 
-![A07 Second FEA Von Mises](A07%20Third%20Third%20Von%20Mises.png)
+![A07 Second FEA Von Mises](A07%20Third%20Von%20Mises.png)
 ![A07 Second FEA Displacement](A07%20Third%20Displacement.png)
 
 Lastly, I used the maximum fine mesh setting slider to get further values. 
