@@ -67,6 +67,7 @@ For the design sketch, I sketched the gears inside the housing as well as the ou
  First, I created the input and output shafts using the hand calculated dimensions from previous steps in the assignment. The diameter of the input shaft was calculated to be 0.250 inches, and the diameter of the output shaft was 0.375 inches. Both shafts' lengths are to be 1.00 inches. 
 
  ![A08 3D Model Input Shaft](A08%20Input%20Shaft.png)
+ ![A08 3D Model Output Shaft](A08%20Output%20Shaft.png)
 
 Next, I created the housing for the gearbox. I created the housing with two dimensions to hold both a thickness for the housing of 0.125 inches and have a large enough cavity to hold the gear and pinion. The housing had a depth of 0.50 inches with a outer diameter around the gear to be 1.6883 inches and a cavity diameter of 1.1833 inches. For the pinion, the housing diameter was set to 1.0583 inches and the cavity needed to be 0.5583 inches. I then created 4 tapped holes that are meant for a #2-56 UNC bolt sizing for the cover to fasten onto. 
 
@@ -80,7 +81,15 @@ Finally, I assembled all the parts I created in SolidWorks as well as the downlo
 
 When assembling the gears and pinion, I had a clearance issue with the teeth that I could not figure out how to fix. I mated the gear and pinion to their appropriate shaft as well as the correct Journal Bearings to the correct shafts on both the covers and opposite side of the housing. Finally, I mated the cover onto the housing to cover the entire assembly. 
 
+![A08 Final Assembly](A08%20Assembly%201.png)
 ![A08 Final Assembly](A08%20Final%20Assembly.png)
+
+## Lessons Learned
+
+After completing this assignment, I further discovered more weaknesses I have in SolidWorks. I have not completed many assemblies, and this shows in my 3D Model. I struggled to correctly mate the gears which causes clearance issues. While mating the Journal Bearings, I was having problems correctly fitting the bearings as well as making them flush with the housing and cover holes. I learned more about assemblies in the end as I understand how mating works when using assemblies. This assignment was the perfect example for an assembly as the parts all came together to form this gearbox that can be translated into real life examples such as small brush motors for robotics, toys, etc. The hand calculations went smoothly as the formulas from the Machineries Handbook worked and I had no issues computing the values. 
+Overall, I spent about 10 hours on this assignment. 
+
+
 
 
 
