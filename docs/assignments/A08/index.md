@@ -89,7 +89,8 @@ When assembling the gears and pinion, I had a clearance issue with the teeth tha
 After completing this assignment, I further discovered more weaknesses I have in SolidWorks. I have not completed many assemblies, and this shows in my 3D Model. I struggled to correctly mate the gears which causes clearance issues. While mating the Journal Bearings, I was having problems correctly fitting the bearings as well as making them flush with the housing and cover holes. I learned more about assemblies in the end as I understand how mating works when using assemblies. This assignment was the perfect example for an assembly as the parts all came together to form this gearbox that can be translated into real life examples such as small brush motors for robotics, toys, etc. The hand calculations went smoothly as the formulas from the Machineries Handbook worked and I had no issues computing the values. 
 Overall, I spent about 10 hours on this assignment. 
 
-
+Download link for Assembly
+[Download my SolidWorks Bracket File](A08%20Assembly.SLDASM)
 
 
 
