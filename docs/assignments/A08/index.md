@@ -60,6 +60,28 @@ For the design sketch, I sketched the gears inside the housing as well as the ou
 
 ![A08 Design Sketch](IMG_2996.JPG)
 
+## SolidWorks 3D Model
+
+ For the 3D Model, I went into SolidWorks and created the parts needed to assemble the gearbox housing design. 
+ 
+ First, I created the input and output shafts using the hand calculated dimensions from previous steps in the assignment. The diameter of the input shaft was calculated to be 0.250 inches, and the diameter of the output shaft was 0.375 inches. Both shafts' lengths are to be 1.00 inches. 
+
+ ![A08 3D Model Input Shaft](A08%20Input%20Shaft.png)
+
+Next, I created the housing for the gearbox. I created the housing with two dimensions to hold both a thickness for the housing of 0.125 inches and have a large enough cavity to hold the gear and pinion. The housing had a depth of 0.50 inches with a outer diameter around the gear to be 1.6883 inches and a cavity diameter of 1.1833 inches. For the pinion, the housing diameter was set to 1.0583 inches and the cavity needed to be 0.5583 inches. I then created 4 tapped holes that are meant for a #2-56 UNC bolt sizing for the cover to fasten onto. 
+
+![A08 Gearbox Housing](A08%20Gearbox%20Housing.png)
+
+For the Gearbox Housing Cover, I created a mold of the same housing outer diameters for the gear and pinion followed by the 4 fastener holes and made the thickness of the plate to be 0.125 inches. 
+
+![A08 Gearbox Housing Cover](A08%20Gearbox%20Housing%20Cover.png)
+
+Finally, I assembled all the parts I created in SolidWorks as well as the downloaded gear, pinion, and Journal Bearings. For the gear, I had to use a gear with 48 teeth since McMaster-Carr did not have a 9-tooth pinion. The gear chosen was part number 7880K24 and the pinion chosen has 18 teeth and the part number is 7880K19. The Journal Bearings chosen were part number 6391K111 and 6391K131. 
+
+When assembling the gears and pinion, I had a clearance issue with the teeth that I could not figure out how to fix. I mated the gear and pinion to their appropriate shaft as well as the correct Journal Bearings to the correct shafts on both the covers and opposite side of the housing. Finally, I mated the cover onto the housing to cover the entire assembly. 
+
+![A08 Final Assembly](A08%20Final%20Assembly.png)
+
 
 
 
