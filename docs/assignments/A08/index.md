@@ -56,6 +56,10 @@ With this thickness, the dimension for the input diameter was 0.250 inches while
 
 ## Design Sketch
 
+For the design sketch, I sketched the gears inside the housing as well as the outside of the housing looking onto the output shaft side of the housing. 
+
+![A08 Design Sketch](IMG_2996.JPG)
+
 
 
 
