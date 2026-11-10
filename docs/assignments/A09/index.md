@@ -24,11 +24,32 @@ The approximate belt length was found to be 19.425 inches.
 
 ## Shaft Design
 
-For the shaft design, I used the same process as the belt design with a free body diagram as well as listing the knowns and unknowns. I then used the torque and shear stress formulas to figure out the diameter of the shaft which came out to be 0.1174 inches. I then selected a diameter of 1/8 inch for readily available materials. 
+For the shaft design, I used the same process as the belt design with a free body diagram as well as listing the knowns and unknowns. I then used the torque and shear stress formulas to figure out the diameter of the shaft which came out to be 0.1174 inches. I then selected a diameter of 1/8 inch for readily available materials. The allowable shear stress was calculated to be 18,898 Psi and the maximum shear stress was found to be 15,644 Psi with a safety factor of 3.62. 
 
 ![A09 Shaft Diameter Calculations](A9%20Part%202.JPG)
 ![A09 Shaft Diameter Calculations](A9%20Part%202.1.JPG)
 
 
-## Communicate
+## Journal Bearing 
+
+The journal bearing that I had to use had to have a RC5 fit with a hole +0.7 thousandths of an inch. With a pressure value of 159.11 Psi, Velocity value of 49.09 ft per min, and a PV value of 7,810 psi-ft per min, I decided, from the material properties in the Machinery's Handbook on page 2440, to use the Porous Bronze. This material well exceeds the allowable values needed for the calculated values based on my design. 
+
+![A09 Journal Bearing Calculations](A9%20Part%203.JPG)
+![A09 Journal Bearing Calculations](A9%20Part%203.1.JPG)
+
+
+## Frame Design
+
+For the Frame Design of the pulley system, I decided to use a rectangular base with 4 column posts to hold the pulley system together. I believe this rectangular design base will keep the pulley system together while not allowing movement while the pulley system is in motion. With a material of 6061-T6 Aluminum due to its high strength and lightweight properties, this base will hold this pulley system sufficiently 
+
+![A09 Frame Design](A9%20Part%204.JPG)
+
+
+## Lesson's Learned 
+
+Throughout this assignment, I learned more about pulley systems. Being already passing Solid Dynamics, I had worked on similar problems in finding tension values as well as minimum diameter of belts or shafts for an applied torque so, I felt comfortable solving and figuring out the needed formulas to find these values. With this assignment, I further understand the importance of hand calculations when designing components. These values need to be compared as well as imagined to fully understand what the actual design problem is and how the overall shape will be in a 3D format. As I complete these assignments, I further am improving my problem solving and design skills with given parameters and a problem statement. 
+
+Total time spent: 5 hours. 
+
+
 
