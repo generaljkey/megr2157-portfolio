@@ -18,8 +18,16 @@ The minimum cross-sectional area was calculated to be 0.04459 in^2. From this va
 
 The approximate belt length was found to be 19.425 inches.  
 
+![A09 Belt Selection Calculations](A9%20Part%201.JPG)
+![A09 Belt Selection Calculations](A9%20Part%201.1.JPG)
 
-## Decide
+
+## Shaft Design
+
+For the shaft design, I used the same process as the belt design with a free body diagram as well as listing the knowns and unknowns. I then used the torque and shear stress formulas to figure out the diameter of the shaft which came out to be 0.1174 inches. I then selected a diameter of 1/8 inch for readily available materials. 
+
+![A09 Shaft Diameter Calculations](A9%20Part%202.JPG)
+![A09 Shaft Diameter Calculations](A9%20Part%202.1.JPG)
 
 
 ## Communicate
