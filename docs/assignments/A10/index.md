@@ -17,5 +17,10 @@
   ![A10 Frame](A10%20Frame%20Design%202.png)
   ![A10 Model](A10%203D%20Model.png)
 
-## Communicate
+Download the 3D model using this link. 
+
+
+## Lessons Learned
+
+For this assignment, I learned the importance of time management and double checking all values found. This assignment was the first group assignment where the work was split up into 3 different sections. Some sections were essential for the other two group members to further complete their sections. With this, double checking all values found and the equations used were correct so that another team member did not use an incorrect value that would cause more work for other members because of your mistake. I also learned further in depth about 3D modeling, especially assemblies. With downloading parts, I needed to change their lengths, and I tried to change their lengths in the assembly file. This caused plenty of issues because the length change would change all of the same downloaded links due to the files being imported being the same. I instead made two separate parts with the changed lengths and then imported those parts into the assembly, and this worked perfectly. Overall, this assignment took me about 6 hours to complete with my portion of the assignment. 
 
