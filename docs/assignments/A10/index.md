@@ -51,8 +51,14 @@ To fully define the crosshead, I then drew multiview drawing with the given dime
 
 <img width="500" alt="Crosshead Drawing" src="IMG_0188.jpeg" />
 
+Bruno completed this section.
+
 ## Flange Nuts
 For the lead screw system, we selected the 3/4-5 ACME bronze flange nut from McMaster-Carr (Part #95120A123) to go with our 18-inch lead screws. The nut is made from 932 bearing bronze and has an engagement length of 1.5 inches, giving us about 7.5 engaged threads. Since our final design uses two lead screws to move the crosshead, we assumed the 2 KN load would be split evenly between the two flange nuts, making each nut carry 1000 N. This gives us an estimated force of 133.33 N per thread for each screw. We also used a bronze yield strength of 14,000 psi and a factor of safety of 4, giving us an allowable bending stress of 3,500 psi. We created an FBD showing both lead screws, flange nuts, and the crosshead to represent how the load is transferred through the system. The remaining step is to calculate the actual bending stress in the internal threads and verify that the selected flange nuts meet the required safety factor.
+
+![A10 Flange Nuts](Scan_20261115_211944.jpg)
+
+Brandon completed this section.
 
 ## Cost
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
@@ -62,7 +68,7 @@ For the lead screw system, we selected the 3/4-5 ACME bronze flange nut from McM
 | 3 | 1 | Rectangle, 40 Series, T-Slot Framing System - 804T48 - Grainger | $245.87 | **$245.87** | https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48 |
 | **TOTAL MATERIAL COST** | | | | **$637.03** | |
 
-
+Brandon completed this section. 
 
 
 ## 3D Modeling
@@ -79,6 +85,7 @@ For the lead screw system, we selected the 3/4-5 ACME bronze flange nut from McM
 Download the 3D model using this link. 
 [Download my SolidWorks Bracket File](Assem1.SLDASM)
 
+Jason completed this section. 
 
 ## Lessons Learned
 
