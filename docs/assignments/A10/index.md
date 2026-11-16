@@ -1,9 +1,5 @@
 # A10 – Lead Screw Translating System
 
-## Objective
-
-
-## Flange Nuts
 
 ## Objective
 
@@ -54,6 +50,19 @@ I then used deflection, with a max deflection of 0.1 mm. This parameter yielded 
 To fully define the crosshead, I then drew multiview drawing with the given dimensions, with a front, top, and right view. I also included the flange nuts being utilized, with a 4-screw mounting solution for each nut. This ensures that they will stay secured onto the crosshead for full functionality of the tensile tester. To ensure the mounting solution is defined, I also located parts to mount the flange nut, with hex bolts and hex nuts being provided.
 
 <img width="500" alt="Crosshead Drawing" src="IMG_0188.jpeg" />
+
+## Flange Nuts
+For the lead screw system, we selected the 3/4-5 ACME bronze flange nut from McMaster-Carr (Part #95120A123) to go with our 18-inch lead screws. The nut is made from 932 bearing bronze and has an engagement length of 1.5 inches, giving us about 7.5 engaged threads. Since our final design uses two lead screws to move the crosshead, we assumed the 2 KN load would be split evenly between the two flange nuts, making each nut carry 1000 N. This gives us an estimated force of 133.33 N per thread for each screw. We also used a bronze yield strength of 14,000 psi and a factor of safety of 4, giving us an allowable bending stress of 3,500 psi. We created an FBD showing both lead screws, flange nuts, and the crosshead to represent how the load is transferred through the system. The remaining step is to calculate the actual bending stress in the internal threads and verify that the selected flange nuts meet the required safety factor.
+
+## Cost
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| :---: | :---: | :--- | :---: | :---: | :--- |
+| 1 | 2 | 3/4"-5, Zinc-Plated Carbon Steel Acme Lead Screw | $35.49 | **$70.98** | https://www.mcmaster.com/93255A233/ |
+| 2 | 2 | 3/4"-5, 932 Bearing Bronze Acme Flange Nut | $160.09 | **$320.18** | https://www.mcmaster.com/95120A123/ |
+| 3 | 1 | Rectangle, 40 Series, T-Slot Framing System - 804T48 - Grainger | $245.87 | **$245.87** | https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48 |
+| **TOTAL MATERIAL COST** | | | | **$637.03** | |
+
+
 
 
 ## 3D Modeling
