@@ -18,7 +18,7 @@
   ![A10 Model](A10%203D%20Model.png)
 
 Download the 3D model using this link. 
-[Download my SolidWorks Bracket File](A08%20Assembly.SLDASM)
+[Download my SolidWorks Bracket File](Assem1.SLDASM)
 
 
 ## Lessons Learned
