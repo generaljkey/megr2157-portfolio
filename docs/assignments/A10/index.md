@@ -85,7 +85,7 @@ Brandon completed this section.
   ![A10 Model](A10%203D%20Model.png)
 
 Download the 3D model using this link. 
-[Download my SolidWorks Bracket File](Assem1.SLDASM)
+[Download my SolidWorks File](Assem1.SLDASM)
 
 Jason completed this section. 
 
