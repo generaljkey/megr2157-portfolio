@@ -78,6 +78,8 @@ Brandon completed this section.
   ![A10 Cross Head](A10%20Crosshead.png)
   ![A10 Cross Head](A10%20Crosshead%20Holes.png)
   ![A10 Cross Head](A10%20Crosshead%20Flange%20Holes.png)
+  ![A10 Flange Nut](A10%20Flange%20Nut.png)
+  ![A10 Leadscrew](A10%20Leadscrew.png)
   ![A10 Frame](A10%20Frame%20Design.png)
   ![A10 Frame](A10%20Frame%20Design%202.png)
   ![A10 Model](A10%203D%20Model.png)
