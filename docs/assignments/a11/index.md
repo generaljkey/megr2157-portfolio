@@ -12,6 +12,11 @@ Then, a SolidWorks model was created to create a design for our 3D modelled asse
 
 This section was completed by Jason. 
 
+
+**Coupler**
+
+For the Coupler, we selected a flexible shaft coupler to connect the motor shafts to the lead screws. We used the coupler specifications to find the maximum torque it could handle and used torsional stress equations to calculate the minimum wall thickness needed. We also checked the selected coupler's dimensions against the calculated thickness to make sure it could handle the twisting force.
+<img width="2428" height="3239" alt="Scan_20261123_191042" src="https://github.com/user-attachments/assets/68c24054-a5ef-413f-9b5b-9a8a71b4b87e" />
 ## Journal Bearing Mount
 
 Finally, a journal bearing mount is needed to connect the bottom of the leadscrews to the frame. Using the RC 3 fit table 8a in the Machinery's Handbook on page 654, I found the needed tolerance of the diameter to be +0.0005 / -0.0000 inches. Using a Free Body Diagram, a thickness minimum was found to be 1.65 mm but to be safe, I selected a value of 12 mm. A vertically standing mount was chosen with a nominal inner diameter of 19.05 mm and an outer diameter of 40 mm. Then, I modeled the mounting design in SolidWorks. 
