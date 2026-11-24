@@ -63,6 +63,10 @@ Finally, a journal bearing mount is needed to connect the bottom of the leadscre
 | Jason | 10 | 35 | 350 |
 | | | **Total Cost** | **980** |
 
+## Lessons Learned
+
+For this assignment, I learned time management is important when in a group project. I had been studying for a test the day before this assignment was due which caused me to procrastinate finishing my sections of this assignment. Fortunately, my teammates reassured my late finish and was able to finish the project earlier in the night. This is unfair to my teammates as they had to wait on me to progress with their sections. With the ending of the semester coming very close, I will need to manage my time to be able to get to these assignments earlier so that my teammates do not have to wait on me. For this assignment, I had to design two parts that had little requirements meaning I could use more imagination than other designed parts. This was a nice change as I could decide on what the values were to be for dimensions of the mounting parts. I further improved my hand calculations by using equations learned from the past, in class, and in the Machinery's Handbook. In total, I spent about 4 hours for this assignment. 
+
 **Total Cost of Project:** **$3,060.83**
 
 
